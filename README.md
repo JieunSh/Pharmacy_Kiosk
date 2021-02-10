@@ -18,8 +18,8 @@
 ## 시스템 동작
 ### 메인 화면
 <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG">
-* 이용하기위한 '입장하기' 버튼
-* 약품 제조 완료를 알리는 알림창
+* 이용하기위한 '입장하기' 버튼<br/>
+* 약품 제조 완료를 알리는 알림창<br/>
 ### 접수 화면
 <img width="700" height = "370" alt="PK 접수화면" src="https://user-images.githubusercontent.com/78644129/107513799-1abd4e80-6bec-11eb-8284-0d8af154b9bf.PNG">
 
