@@ -1,1 +1,1 @@
-# 약국 키오스크 시스템
+# Pharmay Kiosk Project
