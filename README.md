@@ -26,13 +26,17 @@
 #### 2-1. '약국약 구매' 버튼 클릭시<br/>
  <img width="700" height = "370" alt="PK 번호표 출력" src="https://user-images.githubusercontent.com/78644129/107515116-f19dbd80-6bed-11eb-9a93-03c7273e03e4.PNG"><br/>
  * 순서에 맞게 번호표 출력<br/>
+ 
 #### 2-2. 'QR코드 스캔' 버튼 클릭시<br/>
 <img width="700" height = "370" alt="PK 스캔화면" src="https://user-images.githubusercontent.com/78644129/107605676-37eb2f00-6c77-11eb-95bb-50a452dd29cf.PNG"><br/>
 * 스캔 버튼을 클릭하면 스캐너가 활성 되어 QR코드를 스캔함
 * 스캔을 할 수 있는 시간은 30초
   * 30초안에 스캔에 성공 -> 번호표 출력 패널로 이동
   * 실패 -> 메인화면으로 이동
-
+  
+#### 2-2-1. 스캔 성공시
+<img width="249" alt="PK 스캔성공화면" src="https://user-images.githubusercontent.com/78644129/107606139-8b11b180-6c78-11eb-9ff7-55f21bf2f7cb.PNG"><br/>
+* 스캔 성공후 순서대로 번호표 출력
 
 ### 호출 화면
 
