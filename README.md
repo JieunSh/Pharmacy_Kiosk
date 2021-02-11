@@ -22,10 +22,10 @@
 > * 약품 제조 완료를 알리는 알림창<br/>
 
 ### 2. 접수 화면
-<img width="700" height = "370" alt="PK 접수화면" src="https://user-images.githubusercontent.com/78644129/107513799-1abd4e80-6bec-11eb-8284-0d8af154b9bf.PNG">
+<img width="700" height = "370" alt="PK 접수화면" src="https://user-images.githubusercontent.com/78644129/107513799-1abd4e80-6bec-11eb-8284-0d8af154b9bf.PNG">><br/>
 #### 2-1. '약국약 구매' 버튼 클릭시<br/>
 > <img width="700" height = "370" alt="PK 번호표 출력" src="https://user-images.githubusercontent.com/78644129/107515116-f19dbd80-6bed-11eb-9a93-03c7273e03e4.PNG"><br/>
-> 순서에 맞게 번호표 출력
+> 순서에 맞게 번호표 출력<br/>
 #### 2-2. 'QR코드 스캔' 버튼 클릭시<br/>
 
 
