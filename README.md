@@ -18,7 +18,7 @@
 ## 시스템 동작
 ### 키오스크
 #### 1. 키오스크 메인 화면
- <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
+ <img width="480" height = "240" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
  * 이용하기위한 '입장' 버튼<br/>
  * 약품 제조 완료를 알리는 알림창<br/>
 
