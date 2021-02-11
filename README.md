@@ -27,7 +27,8 @@
 > <img width="700" height = "370" alt="PK 번호표 출력" src="https://user-images.githubusercontent.com/78644129/107515116-f19dbd80-6bed-11eb-9a93-03c7273e03e4.PNG">
 > 순서에 맞게 번호표 출력
 * 처방전 접수를 위한 'QR코드 스캔' 버튼
-### 
+
+### 호출 화면
 
 
 ## 제작 기간, 본인 구현 부분
