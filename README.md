@@ -18,7 +18,7 @@
 ## 시스템 동작
 ### 키오스크
 #### 1. 키오스크 메인 화면
- <img width="480" height = "240" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
+ <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
  * 이용하기위한 '입장' 버튼<br/>
  * 약품 제조 완료를 알리는 알림창<br/>
 
@@ -47,23 +47,23 @@
 ### 약사 화면
 
 #### 1. 약사 메인 화면
-<img width="486" alt="PK 약사 메인화면" src="https://user-images.githubusercontent.com/78644129/107607394-78997700-6c7c-11eb-87cc-e07197d75a84.PNG"><br/>
+<img width="700" height = "370" alt="PK 약사 메인화면" src="https://user-images.githubusercontent.com/78644129/107607394-78997700-6c7c-11eb-87cc-e07197d75a84.PNG"><br/>
 
 #### 2. '시작하기' 버튼 클릭시
-<img width="339" alt="PK 약사 시작화면" src="https://user-images.githubusercontent.com/78644129/107607798-96b3a700-6c7d-11eb-9afa-91d7eeb27b3c.PNG"><br/>
+<img width="700" height = "370" alt="PK 약사 시작화면" src="https://user-images.githubusercontent.com/78644129/107607798-96b3a700-6c7d-11eb-9afa-91d7eeb27b3c.PNG"><br/>
 
 #### 2-1. '처방전 대기' 버튼 클릭시
 
 #### 2-1-1. 약국약 접수 받을시
-<img width="323" alt="PK 약국약 접수화면" src="https://user-images.githubusercontent.com/78644129/107608304-f52d5500-6c7e-11eb-9f1d-7b218905dc3e.PNG"><br/>
+<img width="700" height = "370" alt="PK 약국약 접수화면" src="https://user-images.githubusercontent.com/78644129/107608304-f52d5500-6c7e-11eb-9f1d-7b218905dc3e.PNG"><br/>
 * 약국약 접수 받은 상태
 * 약사는 리스트에서 해당 접수번호 클릭후 확인버튼 눌러 키오스크에 해당 고객을 호출함
 
 #### 2-1-2. 처방전 접수 받을시
-<img width="288" alt="PK 처방전 약 위치" src="https://user-images.githubusercontent.com/78644129/107608383-2f96f200-6c7f-11eb-951c-8289b837b1f9.PNG"><br/>
+<img width="700" height = "370" alt="PK 처방전 약 위치" src="https://user-images.githubusercontent.com/78644129/107608383-2f96f200-6c7f-11eb-951c-8289b837b1f9.PNG"><br/>
 * 처방전 정보가 들어오면 약품의 위치가 출력됨
 
-<img width="249" alt="PK 제조완료 메시지" src="https://user-images.githubusercontent.com/78644129/107607916-e003f680-6c7d-11eb-8fe2-cbdd5495f219.PNG"><br/>
+<img width="700" height = "370" alt="PK 제조완료 메시지" src="https://user-images.githubusercontent.com/78644129/107607916-e003f680-6c7d-11eb-8fe2-cbdd5495f219.PNG"><br/>
 * 제조 완료 메시지 확인 시 리스트에서 해당 접수번호의 요소가 삭제되고 키오스크에게 완료메시지를 출력함
 
 #### 2-2. '약품상황' 버튼 클릭시
