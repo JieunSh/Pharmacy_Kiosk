@@ -16,8 +16,8 @@
 > 7. 환자는 해당 알림을 보고 약을 수령함<br/>
 
 ## 시스템 동작
-> ### 메인 화면
-> <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG">
+1. ### 메인 화면
+> <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
 > * 이용하기위한 '입장' 버튼<br/>
 > * 약품 제조 완료를 알리는 알림창<br/>
 
