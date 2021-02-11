@@ -16,12 +16,13 @@
  7. 환자는 해당 알림을 보고 약을 수령함<br/>
 
 ## 시스템 동작
-### 1. 메인 화면
+### 키오스크
+#### 1. 키오스크 메인 화면
  <img width="700" height = "370" alt="PK 메인화면" src="https://user-images.githubusercontent.com/78644129/107513537-b4383080-6beb-11eb-9f9d-ddbe1265f242.PNG"><br/>
  * 이용하기위한 '입장' 버튼<br/>
  * 약품 제조 완료를 알리는 알림창<br/>
 
-### 2. 접수 화면
+#### 2. 접수 화면
 <img width="700" height = "370" alt="PK 접수화면" src="https://user-images.githubusercontent.com/78644129/107513799-1abd4e80-6bec-11eb-8284-0d8af154b9bf.PNG">><br/>
 #### 2-1. '약국약 구매' 버튼 클릭시<br/>
  <img width="700" height = "370" alt="PK 번호표 출력" src="https://user-images.githubusercontent.com/78644129/107515116-f19dbd80-6bed-11eb-9a93-03c7273e03e4.PNG"><br/>
@@ -38,9 +39,49 @@
 <img width="249" alt="PK 스캔성공화면" src="https://user-images.githubusercontent.com/78644129/107606139-8b11b180-6c78-11eb-9ff7-55f21bf2f7cb.PNG"><br/>
 * 스캔 성공후 순서대로 번호표 출력
 
-### 3. 호출 화면
-<img width="217" alt="PK 호출 알림 화면" src="https://user-images.githubusercontent.com/78644129/107606626-03c53d80-6c7a-11eb-8338-f5f8dcf5a5b8.png">
+#### 3. 호출 화면
+<img width="326" alt="PK 호출메시지" src="https://user-images.githubusercontent.com/78644129/107606392-45091d80-6c79-11eb-8cf7-2cafb0a7347e.PNG"><br/>
 * 키오스크의 호출 메시지 화면
 * 약품 제조가 완료됨과 동시에 해당 접수번호 고객의 호출메시지가 출력되어 약품을 받으러 오라는 신호를 보냄
+
+### 약사 화면
+
+#### 1. 약사 메인 화면
+<img width="486" alt="PK 약사 메인화면" src="https://user-images.githubusercontent.com/78644129/107607394-78997700-6c7c-11eb-87cc-e07197d75a84.PNG"><br/>
+
+#### 2. '시작하기' 버튼 클릭시
+<img width="339" alt="PK 약사 시작화면" src="https://user-images.githubusercontent.com/78644129/107607798-96b3a700-6c7d-11eb-9afa-91d7eeb27b3c.PNG"><br/>
+
+#### 2-1. '처방전 대기' 버튼 클릭시
+
+#### 2-1-1. 약국약 접수 받을시
+<img width="323" alt="PK 약국약 접수화면" src="https://user-images.githubusercontent.com/78644129/107608304-f52d5500-6c7e-11eb-9f1d-7b218905dc3e.PNG"><br/>
+* 약국약 접수 받은 상태
+* 약사는 리스트에서 해당 접수번호 클릭후 확인버튼 눌러 키오스크에 해당 고객을 호출함
+
+#### 2-1-2. 처방전 접수 받을시
+<img width="288" alt="PK 처방전 약 위치" src="https://user-images.githubusercontent.com/78644129/107608383-2f96f200-6c7f-11eb-951c-8289b837b1f9.PNG"><br/>
+* 처방전 정보가 들어오면 약품의 위치가 출력됨
+
+<img width="249" alt="PK 제조완료 메시지" src="https://user-images.githubusercontent.com/78644129/107607916-e003f680-6c7d-11eb-8fe2-cbdd5495f219.PNG"><br/>
+* 제조 완료 메시지 확인 시 리스트에서 해당 접수번호의 요소가 삭제되고 키오스크에게 완료메시지를 출력함
+
+#### 2-2. '약품상황' 버튼 클릭시
+<img width="367" alt="PK 약품 상황 화면" src="https://user-images.githubusercontent.com/78644129/107607955-f5792080-6c7d-11eb-956b-f5a016c212ad.PNG">
+
+#### 2-2-1.약품 추가 화면
+<img width="318" alt="PK 약품 추가 화면" src="https://user-images.githubusercontent.com/78644129/107607966-fdd15b80-6c7d-11eb-87b4-51a8c74ddb05.PNG"><br/>
+* 약품 선택후 수량 입력시 약품의 수량 변경 완료
+
+#### 2-2-2. 약품 수량 확인 화면
+<img width="289" alt="PK 약품 수량 확인 화면" src="https://user-images.githubusercontent.com/78644129/107607986-04f86980-6c7e-11eb-9f62-5e109f12bf5f.PNG"><br/>
+* 수량을 확인하고 싶은 약품 선택후 확인 버튼 클릭시 남은 개수가 출력됨
+
+#### 2-2-3. 처방전 화면
+<img width="334" alt="PK 처방전 기본화면" src="https://user-images.githubusercontent.com/78644129/107608006-0f1a6800-6c7e-11eb-9bdb-de81cdf50d80.PNG"><br/>
+* 처방전 기본 화면
+<img width="361" alt="PK 처방전 조회 화면" src="https://user-images.githubusercontent.com/78644129/107607840-bba81a00-6c7d-11eb-85de-a9af2362844b.PNG"><br/>
+* 접수번호 입력후 조회버튼 클릭시 처방전 정보 
+
 ## 제작 기간, 본인 구현 부분
 
