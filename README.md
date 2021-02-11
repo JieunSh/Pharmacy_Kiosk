@@ -38,8 +38,9 @@
 <img width="249" alt="PK 스캔성공화면" src="https://user-images.githubusercontent.com/78644129/107606139-8b11b180-6c78-11eb-9ff7-55f21bf2f7cb.PNG"><br/>
 * 스캔 성공후 순서대로 번호표 출력
 
-### 호출 화면
-
-
+### 3. 호출 화면
+<img width="326" alt="PK 호출메시지" src="https://user-images.githubusercontent.com/78644129/107606392-45091d80-6c79-11eb-8cf7-2cafb0a7347e.PNG"><br/>
+* 키오스크의 호출 메시지 화면
+* 약품 제조가 완료됨과 동시에 해당 접수번호 고객의 호출메시지가 출력되어 약품을 받으러 오라는 신호를 보냄
 ## 제작 기간, 본인 구현 부분
 
