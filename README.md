@@ -26,7 +26,7 @@
 
 ## 실행 동영상
 ### 약국 키오스크 시스템 실행 동영상
-[![영상](https://img.youtube.com/vi/ei1s2swjzcE/0.jpg)](https://www.youtube.com/ei1s2swjzcE?t=0s) 
+[![영상](http://img.youtube.com/vi/ei1s2swjzcE/0.jpg)](https://www.youtube.be/ei1s2swjzcE?t=0s) 
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
 ### QR 코드 스캔 영상
