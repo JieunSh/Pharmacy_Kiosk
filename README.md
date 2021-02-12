@@ -24,6 +24,13 @@
  6. 약사는 약사컴퓨터에 출력된 정보를 이용하여 약을 제조하고 제조가 완료되면 키오스크에게 제조완료 알림을 줌<br/>
  7. 환자는 해당 알림을 보고 약을 수령함<br/>
 
+## 실행 동영상
+### 약국 키오스크 시스템 실행 동영상
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=ei1s2swjzcE"><br/>
+
+### QR 코드 스캔 영상
+<iframe width="640" height="360" src="youtube.com/watch?v=-LRUgVkjgvA"><br/>
+ 
 ## 시스템 동작
 ### 키오스크
 #### 1. 키오스크 메인 화면
