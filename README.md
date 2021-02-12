@@ -26,7 +26,8 @@
 
 ## 실행 동영상
 ### 약국 키오스크 시스템 실행 동영상
-[![영상](https://img.youtube.com/vi/ei1s2swjzcE/0.jpg)](https://www.youtube.com/ei1s2swjzcE) 
+[![영상](https://img.youtube.com/vi/ei1s2swjzcE/0.jpg)](https://www.youtube.com/ei1s2swjzcE?t=0s) 
+
 
 ### QR 코드 스캔 영상
 [![영상](https://img.youtube.com/vi/-LRUgVkjgvA/0.jpg)](https://www.youtube.com/-LRUgVkjgvA) 
