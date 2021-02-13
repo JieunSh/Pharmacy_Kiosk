@@ -26,10 +26,10 @@
 
 ## 실행 동영상
 ### 약국 키오스크 시스템 실행 동영상
-[약국 키오스크](https://www.youtube.com/watch?v=ei1s2swjzcE)
+[유튜브 영상](https://www.youtube.com/watch?v=ei1s2swjzcE)
 
 ### QR 코드 스캔 영상
-[처방전 QR 코드 스캔](https://www.youtube.com/watch?v=-LRUgVkjgvA)
+[유튜브 영상](https://www.youtube.com/watch?v=-LRUgVkjgvA)
  
 ## 시스템 동작
 ### 키오스크
