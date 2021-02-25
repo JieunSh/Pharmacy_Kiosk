@@ -25,10 +25,10 @@
  7. 환자는 해당 알림을 보고 약을 수령함<br/>
 
 ## 실행 동영상
-### 약국 키오스크 시스템 실행 동영상
+#### 약국 키오스크 시스템 실행 동영상
 [유튜브 영상](https://www.youtube.com/watch?v=ei1s2swjzcE)
 
-### QR 코드 스캔 영상
+#### QR 코드 스캔 영상
 [유튜브 영상](https://www.youtube.com/watch?v=-LRUgVkjgvA)
  
 ## 시스템 동작
